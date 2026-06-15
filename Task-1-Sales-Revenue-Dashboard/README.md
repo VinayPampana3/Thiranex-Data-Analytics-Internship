@@ -25,9 +25,6 @@ Build an interactive dashboard to analyze sales and revenue data.
 - Laptop was the top-performing product.
 - Regional analysis helps identify high-performing areas.
 
-## Dashboard Preview
-
-(Add screenshots here)
 
 ## Learning Outcomes
 - Data Visualization
